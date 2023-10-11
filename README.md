@@ -34,7 +34,7 @@
 <p align="left">
   Redes Sociais
   <br>
-  <a href="https://www.linkedin.com/in/matheus-de-assis-zordan-1265a8289/" target="_blank" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-de-assis-zordan-1265a8289/"alt="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a href="https://www.instagram.com/matheuszordan9/" alt="Instagram">
