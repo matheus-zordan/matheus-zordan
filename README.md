@@ -28,7 +28,7 @@
 </p>
 
 <p align="left">
-  📚 Proximas etapas de estudo: Conceitos mais avançados de CSS e iniciar javascript
+  📚 Proximas etapas de estudo: Conceitos mais avançados de CSS e javascript
 </p>
 
 <p align="left">
