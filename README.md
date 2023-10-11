@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: As propriedade background-image,background-size,background-position,background-repeat
+  📒 Estudando Atualmente: propriedades como background-image, background-size, background-position e background-repeat
 </p>
 
 <p align="left">
