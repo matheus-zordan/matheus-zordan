@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: propriedades como background-image, background-size, background-position, background-repeat e background-attachment.
+  📒 Estudando Atualmente: iframes
 </p>
 
 <p align="left">
