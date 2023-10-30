@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: iframes
+  📒 Estudando Atualmente: 
 </p>
 
 <p align="left">
