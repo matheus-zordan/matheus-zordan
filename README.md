@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: 
+  📒 Estudando Atualmente: Media Queries
 </p>
 
 <p align="left">
