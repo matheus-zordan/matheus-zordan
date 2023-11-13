@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: Flex-Box e CSS Grid
+  📒 Estudando Atualmente: Flexbox e CSS Grid
 </p>
 
 <p align="left">
