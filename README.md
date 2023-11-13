@@ -24,11 +24,11 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: Media Queries
+  📒 Estudando Atualmente: Flex-Box e CSS Grid
 </p>
 
 <p align="left">
-  📚 Proximas etapas de estudo: Conceitos mais avançados de CSS e javascript
+  📚 Proximas etapas de estudo: Javascript
 </p>
 
 <p align="left">
