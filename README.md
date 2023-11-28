@@ -24,11 +24,11 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: Flexbox e CSS Grid
+  📒 Estudando Atualmente: Flexbox e javascript
 </p>
 
 <p align="left">
-  📚 Proximas etapas de estudo: Javascript
+  📚 Proximas etapas de estudo: css grid
 </p>
 
 <p align="left">
