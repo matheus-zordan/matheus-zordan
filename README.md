@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: Flexbox e javascript
+  📒 Estudando Atualmente: Javascript
 </p>
 
 <p align="left">
