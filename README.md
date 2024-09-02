@@ -26,11 +26,6 @@
 <p align="left">
   📒 Estudando Atualmente: Javascript
 </p>
-
-<p align="left">
-  📚 Proximas etapas de estudo: css grid
-</p>
-
 <p align="left">
   Redes Sociais
   <br>
