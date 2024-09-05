@@ -1,5 +1,5 @@
 <p align="left"> 
-  Ma chamo Matheus de Assis Zordan, tenho 26 anos e sou estudande de Ciência da Computação. 
+  Ma chamo Matheus de Assis Zordan, tenho 27 anos e sou estudande de Ciência da Computação. 
   Minha área de especialização é desenvolvimento front end e ui design.
 </p>
 
