@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  📒 Estudando Atualmente: Javascript
+  📒 Estudando Atualmente: Javascript, React e Bootstrap
 </p>
 <p align="left">
   Redes Sociais
