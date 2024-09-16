@@ -5,7 +5,7 @@
 
 <p>
   🚀 Minhas Skills:
-  <br>
+  <br><br>
   <img = src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img = src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img = src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <p align="left">
   💼 Ferramentas:
-  <br>
+  <br><br>
    <img  src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
    <img  src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
    <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -29,7 +29,7 @@
 </p>
 <p align="left">
   Redes Sociais
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/matheus-de-assis-zordan-1265a8289/"alt="LinkedIn">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
